@@ -3,6 +3,16 @@ An undergraduate 🚀 physics spanish student at <a href="www.ucm.es" rel="nofol
 
 Besides programming, some of my passions are 🪐 astrophysics, 📘 philosophy, 🖋️ poetry, and 🕺 dancing hip-hop.
 
+### 📫 How to reach me:
+<div id="badges">
+  <a href="www.linkedin.com/in/tristan-ortiz-roset-ba2762221">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:tortiz.roset@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
 ### 📚 Studies:
 
 As I said before, I'm an undergraduate physics student.
@@ -15,13 +25,7 @@ Currently, I'm also enrolled at 👨‍💻 42 Madrid, which I started in Januar
 
 
 ### 🗺️ Languages:
-
-### 📫 How to reach me:
-
-You can find me on <a href="www.linkedin.com/in/tristan-ortiz-roset-ba2762221" rel="nofollow">Linkedin</a>.
-
-You can also reach me through ✉️ <a href="mailto:tortiz.roset@gmail.com">Email</a>.
-
+:spain: :france: :united_kingdom: :united_states:
 
 <!--
 **tortiz-r/tortiz-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,4 +40,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Badge RRSS
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+
+You can find me on <a href="www.linkedin.com/in/tristan-ortiz-roset-ba2762221" rel="nofollow">Linkedin</a>.
+You can also reach me through ✉️ <a href="mailto:tortiz.roset@gmail.com">Email</a>.
 -->
