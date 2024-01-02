@@ -22,7 +22,17 @@ Furthermore, I'm coursing Harvard's 💻 <a href="https://cs50.harvard.edu/x/202
 Currently, I'm also enrolled at 👨‍💻 42 Madrid, which I started in January 2024.
 
 ### 🖥️ Skills:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+</div>
 
+  
 
 ### 🗺️ Languages:
 :spain: :france: :united_kingdom: :united_states:
@@ -48,4 +58,8 @@ Badge RRSS
 
 You can find me on <a href="www.linkedin.com/in/tristan-ortiz-roset-ba2762221" rel="nofollow">Linkedin</a>.
 You can also reach me through ✉️ <a href="mailto:tortiz.roset@gmail.com">Email</a>.
+
+Badge for skills:
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+
 -->
