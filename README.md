@@ -7,19 +7,22 @@ Besides programming, some of my passions are 🪐 astrophysics, 📘 philosophy,
 
 As I said before, I'm an undergraduate physics student.
 
-Furthermore, I am coursing Harvard's <a href="https://cs50.harvard.edu/x/2024/" rel="nofollow">CS50's Introduction to Computer Science</a> course.
+Furthermore, I'm coursing Harvard's 💻 <a href="https://cs50.harvard.edu/x/2024/" rel="nofollow">CS50's Introduction to Computer Science</a> course.
 
-Currently, I am also enrolled at 👨‍💻 42 Madrid, which I started in January 2024.
+Currently, I'm also enrolled at 👨‍💻 42 Madrid, which I started in January 2024.
 
+### 🖥️ Skills:
 
-
-### Skills
 
 ### 🗺️ Languages:
 
-### My name is Tristán and I'm an undergraduate physics student at Universidad Complutense de Madrid
-### Currently, I am also enrolled at 42 Madrid, which I started on January 2024.
-### Some of my passions are astrophysics and philosophy, as well as programming.
+### 📫 How to reach me:
+
+You can find me on <a href="www.linkedin.com/in/tristan-ortiz-roset-ba2762221" rel="nofollow">Linkedin</a>.
+
+You can also reach me through ✉️ <a href="mailto:tortiz.roset@gmail.com">Email</a>.
+
+
 <!--
 **tortiz-r/tortiz-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
