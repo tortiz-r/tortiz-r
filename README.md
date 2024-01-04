@@ -1,5 +1,5 @@
 ### Hi, I'm Tristán! 👋
-An undergraduate 🚀 physics spanish student at <a href="www.ucm.es" rel="nofollow">Universidad Complutense de Madrid</a>.
+A Spanish undergraduate 🚀 physics student at <a href="www.ucm.es" rel="nofollow">Universidad Complutense de Madrid</a>.
 
 Besides programming, some of my passions are 🪐 astrophysics, 📘 philosophy, 🖋️ poetry, and 🕺 dancing hip-hop.
 
@@ -17,17 +17,17 @@ Besides programming, some of my passions are 🪐 astrophysics, 📘 philosophy,
 
 As I said before, I'm an undergraduate physics student.
 
-Furthermore, I'm coursing Harvard's 💻 <a href="https://cs50.harvard.edu/x/2024/" rel="nofollow">CS50's Introduction to Computer Science</a> course.
+I'm also enrolled at 👨‍💻 42 Madrid, which I started in January 2024.
 
-Currently, I'm also enrolled at 👨‍💻 42 Madrid, which I started in January 2024.
+Furthermore, I'm coursing Harvard's 💻 <a href="https://cs50.harvard.edu/x/2024/" rel="nofollow">CS50's Introduction to Computer Science</a> course.
 
 ### 🖥️ Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
 </div>
 
 <!--
