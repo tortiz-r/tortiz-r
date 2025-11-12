@@ -1,21 +1,21 @@
 ### Hi, I'm Tristán! 👋
 A Spanish undergraduate 🚀 physics student at <a href="www.ucm.es" rel="nofollow">Universidad Complutense de Madrid</a>.
 
-Besides programming, some of my passions are 🪐 astrophysics, 📘 philosophy, 🖋️ poetry, and 🕺 dancing hip-hop.
+Besides programming, some of my passions are |ψ> quantum physics, 📘 philosophy, 🖋️ poetry, and 🕺 dancing.
 
 ### 📫 How to reach me:
 <div id="badges">
   <a href="www.linkedin.com/in/tristan-ortiz-roset-ba2762221">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:tortiz.roset@gmail.com">
+  <a href="mailto:tristanortiz.r@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
 ### 📚 Studies:
 
-As I said before, I'm an undergraduate physics student.
+As I said before, I'm an undergraduate physics student, at <a href="www.ucm.es" rel="nofollow">UCM</a>.
 
 I'm also enrolled at 👨‍💻 42 Madrid, which I started in January 2024.
 
