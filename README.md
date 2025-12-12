@@ -1,7 +1,7 @@
 ### Hi, I'm Tristán! 👋
-A Spanish undergraduate 🚀 physics student at <a href="www.ucm.es" rel="nofollow">Universidad Complutense de Madrid</a>.
+A Spanish undergraduate 🚀 physics student at <a href="www.ucm.es" rel="nofollow">Universidad Complutense de Madrid</a> with a strong interest in quantum physics |ψ> and quantum computing.
 
-Besides programming, some of my passions are |ψ> quantum physics, 📘 philosophy, 🖋️ poetry, and 🕺 dancing.
+Besides programming, some of my passions are 📘 philosophy, 🖋️ poetry, and 🕺 dancing.
 
 ### 📫 How to reach me:
 <div id="badges">
