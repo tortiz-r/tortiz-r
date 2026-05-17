@@ -1,7 +1,7 @@
-### Hi, I'm Tristán! 👋
-A Spanish undergraduate 🚀 physics student at <a href="www.ucm.es" rel="nofollow">Universidad Complutense de Madrid</a> with a strong interest in quantum physics |ψ> and quantum computing.
+# Hi, I'm Tristán! 👋
+A Spanish undergraduate 🚀 physics student at <a href="www.ucm.es" rel="nofollow">Universidad Complutense de Madrid</a> with a strong interest in |ψ> and quantum computing and complex systems.
 
-Besides programming, some of my passions are 🕺 dancing, 🖋️ poetry, and 📘 philosophy.
+Besides programming and physics, some of my passions are 🕺 dancing, 🖋️ poetry, and 🪡 sewing.
 
 ### 📫 How to reach me:
 <div id="badges">
@@ -13,7 +13,7 @@ Besides programming, some of my passions are 🕺 dancing, 🖋️ poetry, and �
   </a>
 </div>
 
-### 📚 Studies:
+## 📚 Studies:
 
 As I said before, I'm an undergraduate physics student, at <a href="https://fisicas.ucm.es/" rel="nofollow">UCM</a>.
 
@@ -21,26 +21,38 @@ I'm also enrolled at 👨‍💻 42 Madrid, which I started in January 2024.
 
 Furthermore, I'm coursing Harvard's 💻 <a href="https://cs50.harvard.edu/x/2024/" rel="nofollow">CS50's Introduction to Computer Science</a> course.
 
-### 🖥️ Skills:
+## 🖥️ Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
  <!-- <img src="https://images.seeklogo.com/logo-png/51/1/originlab-logo-png_seeklogo-514784.png" title="OriginLab" alt="OriginLab" width="40" height="40"/>&nbsp;-->
 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  
 
 </div>
+
+## Projects
+ Below are some of the projects I have participated in! <!-- Below are some of my projects and projects I have participated in! -->
+ <br>
+ 
+  * #### NASA SpaceApps Hackathon - ‘Sky Wanderer’ Team
+   <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 2024 <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/asanzra/Sky-Wanderer-NASA-Space-Apps </p> 
+
+  * #### Eco-Forecast: Data Science Hackathon (NUWE, Schneider Electric) - ‘Betelgeuese Gazers’ Team
+   <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;November 2023 <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/asanzra/Betelgeuse_Gazers-EcoForecast_Revolutionizing_Green_Energy_Surplus_Prediction_in_Europe </p>
 
 <!--
 **tortiz-r/tortiz-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
